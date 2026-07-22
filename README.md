@@ -133,14 +133,6 @@ Cloud-connected ESP32 platform for IoT communication.
 
 ✔ Microchip Virtual Internship
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mukesh02-tech&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukesh02-tech&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-</p>
-
 ## 🌱 Currently Learning
 
 - Advanced Embedded Firmware
