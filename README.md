@@ -155,7 +155,7 @@ Cloud-connected ESP32 platform for IoT communication.
   <a href="mailto:mukeshmuniraj2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF5733?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/mukeshmuniraj05" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Mukesh02-tech" target="_blank">
