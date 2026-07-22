@@ -8,7 +8,7 @@ I'm a Final Year Electronics and Communication Engineering student with a strong
 
 I enjoy developing embedded solutions that integrate hardware, firmware, and communication technologies to solve real-world engineering challenges.
 
-Currently, I'm working as an Embedded Systems & Robotics Intern at DS Inventeck while continuously expanding my expertise in embedded firmware, industrial automation, and connected systems.
+Currently, I'm working as an Embedded Systems & Robotics Intern at DS Inventek while continuously expanding my expertise in embedded firmware, robotics, and PCB desinging.
 
 ## 👨‍💻 About Me
 
@@ -86,13 +86,6 @@ May 2026 – Jun 2026
 
 ## 🚀 Featured Projects
 
-### 🩺 [Hemostasis Monitoring System](#)
-Smart wearable system for monitoring post-dialysis compression dressing using multimodal sensing.
-
-**Tech:** ESP32, Sensors, IoT | [View Repository](#)
-
----
-
 ### 🍕 [PLC Pizza Vending Machine](#)
 Industrial automation system using PLC ladder logic and HMI.
 
@@ -114,10 +107,10 @@ IoT-based renewable energy monitoring platform.
 
 ---
 
-### 🌍 [ESP32 Cloud Server](#)
-Cloud-connected ESP32 platform for IoT communication.
+### 🌍 [School Monitoring System](#)
+Iot-based wearable to monitor school students by their location for safety purposes
 
-**Tech:** ESP32, Cloud Integration, WiFi | [View Repository](#)
+**Tech:** ESP32, GPS, GSM | [View Repository](#)
 
 ## 📜 Certifications
 
