@@ -4,7 +4,7 @@
 
 # Hi, I'm Mukesh 👋
 
-I'm a Final Year Electronics and Communication Engineering student with a strong interest in Embedded Systems, Industrial Automation, IoT, and Intelligent Hardware Design.
+I'm a Final Year Electronics and Communication Engineering student with a strong interest in Embedded Systems, Industrial Automation, VLSI, IoT, and Intelligent Hardware Design.
 
 I enjoy developing embedded solutions that integrate hardware, firmware, and communication technologies to solve real-world engineering challenges.
 
