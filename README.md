@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9500,100:ff006e&height=300&section=header&text=Mukesh%20Muniraj&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=55&descAlign=50" alt="Mukesh Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9500,100:ff006e&height=300&section=header&text=Mukesh%20M&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics&descAlignY=55&descAlign=50" alt="Mukesh Banner" width="100%">
 </p>
 
 # Hi, I'm Mukesh 👋
